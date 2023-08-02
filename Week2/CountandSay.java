@@ -1,6 +1,4 @@
-package BinaryBatallion_Strings.CountandSay;
-
-class Solution {
+class CountandSay {
     	public String countAndSay(int n){ 
 		if(n == 1) return "1";  //if n==1 simply return "1"
 		

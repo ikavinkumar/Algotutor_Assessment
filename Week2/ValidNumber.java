@@ -1,6 +1,6 @@
-package BinaryBatallion_Strings.ValidNumber;
+package Week2;
 
-class Solution {
+class ValidNumber {
     public boolean isNumber(String S) {
         boolean num = false, exp = false, sign = false, dec = false;
         for (int i = 0; i < S.length(); i++) {

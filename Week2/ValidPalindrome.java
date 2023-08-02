@@ -1,6 +1,6 @@
-package BinaryBatallion_Strings.ValidPalindrome;
+package Week2;
 
-class Solution {
+class ValidPalindrome {
     public boolean isPalindrome(String s) {
         int i=0;
         int j=s.length()-1;

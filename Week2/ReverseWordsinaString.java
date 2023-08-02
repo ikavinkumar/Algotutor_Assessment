@@ -1,4 +1,5 @@
-public class Solution {
+package Week2;
+public class ReverseWordsinaString {
   
   public String reverseWords(String s) {
     if (s == null) return null;

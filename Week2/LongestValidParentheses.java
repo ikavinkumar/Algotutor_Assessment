@@ -1,6 +1,6 @@
-package BinaryBatallion_Strings.LongestValidParentheses;
+package Week2;
 
-public class Solution {
+public class LongestValidParentheses {
     public int longestValidParentheses(String s) {
         int maxans = 0;
         int dp[] = new int[s.length()];

@@ -1,8 +1,8 @@
-package BinaryBatallion_Strings.ValidAnagram;
+package Week2;
 
 import java.util.Arrays;
 
-class Solution {
+class ValidAnagram {
     public boolean isAnagram(String s, String t) {
         char[] sChars = s.toCharArray();
         char[] tChars = t.toCharArray();
